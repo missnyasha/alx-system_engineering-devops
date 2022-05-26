@@ -1,2 +1,2 @@
-0 string MY_FIRST_DIRECTORY my_first_directory data
-!:mime my_first_directory
+#!/bin/bash
+0 string SCHOOL School data !:mime School
